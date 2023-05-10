@@ -1,10 +1,22 @@
-# Getting Started with Create React App
+# Mockproject Bookstore
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Đây là dự án cá nhân trong quá trình tự học Reactjs em đã thực hiện được, vẫn còn vài chức năng vẫn đang phát triển trong tương lai
 
-## Available Scripts
+## Feature
 
-In the project directory, you can run:
+### User
+- Login by JWT
+- Show products, product details
+- Order status
+
+### Technologies
+- Reactjs
+- Redux
+- React Hook
+- Ant Design
+- React Router
+- JWT
+- Axios
 
 ### `npm start`
 
